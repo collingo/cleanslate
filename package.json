@@ -1,0 +1,23 @@
+{
+  "name": "cleanslate",
+  "version": "0.10.1",
+  "description": "npm package for Cleanslate - Extreme CSS reset stylesheet by Premasagar Rose (premasagar)",
+  "main": "cleanslate.css",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/collingo/cleanslate.git"
+  },
+  "keywords": [
+    "cleanslate",
+    "reset",
+    "widgets",
+    "css",
+    "library"
+  ],
+  "author": "Premasagar Rose",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/collingo/cleanslate/issues"
+  },
+  "homepage": "https://github.com/collingo/cleanslate#readme"
+}

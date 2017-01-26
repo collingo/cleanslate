@@ -1,3 +1,14 @@
+# Cleanslate npm edition
+
+Cleanslate reset library packaged for npm. No changes to the codebase otherwise.
+
+1. npm install cleanslate
+1. require into your widget
+
+Regular Cleanslate documentation below...
+
+---
+
 # Cleanslate
 
 Full site: [cleanslatecss.com](http://cleanslatecss.com)
